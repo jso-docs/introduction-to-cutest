@@ -1,4 +1,3 @@
 # This file was generated, do not modify it. # hide
-using CUTEst
-
-nlp = CUTEstModel("ROSENBR")
+v = ones(nlp.meta.nvar)
+hprod(nlp, nlp.meta.x0, v)

@@ -1,4 +1,4 @@
 # This file was generated, do not modify it. # hide
-using CUTEst
+print(nlp.meta)
 
-nlp = CUTEstModel("ROSENBR")
+finalize(nlp)

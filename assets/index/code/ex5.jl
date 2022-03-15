@@ -1,4 +1,3 @@
 # This file was generated, do not modify it. # hide
-using CUTEst
-
-nlp = CUTEstModel("ROSENBR")
+H = hess_op(nlp, nlp.meta.x0)
+H * v

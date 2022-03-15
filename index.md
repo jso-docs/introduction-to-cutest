@@ -1,7 +1,7 @@
-@def title = "Template"
+@def title = "CUTEst tutorial"
 @def showall = true
-@def tags = ["template", "fix-me"]
+@def tags = ["cutest", "nlpmodels", "models"]
 
-\preamble{AUTHORS}
+\preamble{Abel Soares Siqueira and Dominique Orban}
 
 \literate{/index.jl}
